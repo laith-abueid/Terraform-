@@ -1,1 +1,10 @@
 # Terraform-
+echo "# laith-abueid/ Terraform>>" README.md
+git init
+git add READme.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/laith-abueid/Terraform-.git
+git push -u origin main
+
+cont...
